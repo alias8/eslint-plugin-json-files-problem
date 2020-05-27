@@ -1,0 +1,1 @@
+var a = 'should have double quotes';
